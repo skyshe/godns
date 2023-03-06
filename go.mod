@@ -7,8 +7,7 @@ require (
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/mattn/go-colorable v0.0.9 // indirect
 	github.com/mattn/go-isatty v0.0.4 // indirect
-	golang.org/x/net v0.0.0-20190110200230-915654e7eabc
-	golang.org/x/sys v0.0.0-20190226215855-775f8194d0f9 // indirect
+	golang.org/x/net v0.7.0
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 )
